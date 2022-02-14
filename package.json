@@ -16,6 +16,7 @@
   "dependencies": {
     "@discordjs/voice": "^0.7.5",
     "bufferutil": "^4.0.3",
+    "cron-parser": "^4.2.1",
     "delay": "^5.0.0",
     "discord-slash-commands-client": "^1.2.1",
     "discord.js": "^13.2.0",
@@ -23,6 +24,7 @@
     "knex-schema-inspector": "^1.5.8",
     "libsodium-wrappers": "^0.7.9",
     "lodash": "^4.17.21",
+    "node-cron": "^3.0.0",
     "node-gyp": "^8.1.0",
     "pg": "^8.6.0",
     "string-similarity": "^4.0.4",

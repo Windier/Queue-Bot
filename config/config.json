@@ -1,14 +1,14 @@
 {
-   "clientId": "YOUR_CLIENT_ID",
-   "token": "YOUR_TOKEN",
+   "clientId": "756682923675090944",
+   "token": "NzU2NjgyOTIzNjc1MDkwOTQ0.X2VZ4w.LHAiq21NbaWfxksqnEVRLKDY2Zk",
    "topGgToken": "",
 
    "color": "AQUA",
    "databaseType": "postgresql",
    "databaseHost": "localhost",
    "databaseName": "queue",
-   "databaseUsername": "postgres",
-   "databasePassword": " ",
+   "databaseUsername": "docker",
+   "databasePassword": "docker",
    "gracePeriod": "0",
    "permissionsRegexp": "\\bmod(erator)?s?\\b|\\badmin(istrator)?s?\\b",
 
